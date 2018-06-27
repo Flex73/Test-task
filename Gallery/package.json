@@ -1,0 +1,11 @@
+{
+  "name": "gallery-app",
+  "version": "1.0.0",
+  "description": "Gallery web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
